@@ -137,6 +137,18 @@
                 "custom_model_data": 3002
             },
             "model": "minecraft:item/umbrella"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5001
+            },
+            "model": "minecraft:item/starlight_magic_circle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5002
+            },
+            "model": "minecraft:item/starlight_magic_circle_stationary"
         }
     ]
 }
