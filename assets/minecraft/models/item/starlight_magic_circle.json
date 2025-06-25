@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [2048, 2060],
 	"textures": {
-		"1": "starlight_magic_circle"
+		"1": "item/starlight_magic_circle"
 	},
 	"elements": [
 		{
